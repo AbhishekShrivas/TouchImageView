@@ -1,0 +1,2 @@
+include ':app', ':touchimageview'
+rootProject.name='SampleApp'
